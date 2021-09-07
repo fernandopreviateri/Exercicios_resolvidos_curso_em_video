@@ -25,3 +25,4 @@ print('{:*^30}'.format(' FIM '))
 print(f'''O total da compra é de R$ {total:>14.2f}
 {mais1000} produto(s) custa mais de R$ {'1000,00':>10}
 {barato} é o produto mais barato.''')
+'''Isso é só um exemplo'''
